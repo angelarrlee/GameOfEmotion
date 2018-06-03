@@ -1,6 +1,7 @@
 ############################################
 
 Author: Qian Tang & Ching Man Lee
+
 Application: Game of Emotion
 
 ############################################
