@@ -1,7 +1,10 @@
 ############################################
+
 Author: Qian Tang & Ching Man Lee
 Application: Game of Emotion
+
 ############################################
+
 
 There are four main tables in the MySQL database in this project:
 
